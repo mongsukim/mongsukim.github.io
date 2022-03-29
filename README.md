@@ -1,4 +1,17 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mongsukim)](https://github.com/mongsukim/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongsukim)](https://github.com/mongsukim/github-readme-stats)
+
+
+
+<a><img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=javascript&logoColor=#F7DF1E"/></a>
+
+<a><img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=#61DAFB"/></a>
+
+<a><img src="https://img.shields.io/badge/NoesJS-000000?style=flat-square&logo=Node.JS&logoColor=#61DAFB"/></a>
+
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=Node.JS&logoColor=#3178C6"/>
+
 
 <!--
 **mongsukim/mongsukim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
