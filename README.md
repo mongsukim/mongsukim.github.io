@@ -1,16 +1,22 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongsukim)](https://github.com/mongsukim/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mongsukim)](https://github.com/mongsukim/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khskwj)](https://solved.ac/khskwj)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongsukim)](https://github.com/mongsukim/github-readme-stats)
  
 <p align="center">
   <a><img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=javascript&logoColor=#F7DF1E"/></a>
+  <a><img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=Typescript&logoColor=#3178C6"/></a>
   <a><img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=#61DAFB"/></a>
-  <a><img src="https://img.shields.io/badge/NoesJS-000000?style=flat-square&logo=Node.JS&logoColor=#61DAFB"/></a>
-  <a><img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=Node.JS&logoColor=#3178C6"/></a>
 </p>
+<p align="center">
+  <a><img src="https://img.shields.io/badge/ReactQuery-000000?style=flat-square&logo=ReactQuery&logoColor=#3178C6"/></a>
+  <a><img src="https://img.shields.io/badge/NoesJS-000000?style=flat-square&logo=Node.JS&logoColor=#61DAFB"/></a>
+  <a><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=#61DAFB"/></a>
+  <a><img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=#61DAFB"/></a>
+</p>
+
 
 
 <!--
