@@ -17,6 +17,11 @@
   <a><img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=#61DAFB"/></a>
 </p>
 
+<p align="center">
+<a>- 🌱 I’m currently learning <img src="https://img.shields.io/badge/SASS-000000?style=flat-square&logo=SASS&logoColor=#3178C6"/> </a>
+</p>
+
+
 
 
 <!--
@@ -25,7 +30,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning #### SASS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
