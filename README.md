@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-<a>- 🌱 I’m currently learning <img src="https://img.shields.io/badge/SASS-000000?style=flat-square&logo=SASS&logoColor=#3178C6"/> </a>
+<a>- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Sass-000000?style=flat-square&logo=Sass&logoColor=#3178C6"/> </a>
 </p>
 
 
