@@ -38,3 +38,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+
+벨로그 : https://velog.io/@mongsukim <br/>
+티스토리 : https://designerkhs.tistory.com/ <br/>
+
+</p>
