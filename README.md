@@ -16,12 +16,29 @@
   <a><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=#61DAFB"/></a>
   <a><img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=#61DAFB"/></a>
 </p>
-
 <p align="center">
-<a>- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Sass-000000?style=flat-square&logo=Sass&logoColor=#3178C6"/> </a>
+  <a>Tools</a>
+
+</p>
+<p align="center">
+  <a><img alt="Git" src="https://img.shields.io/badge/Git-000000?logo=Git&logoColor=white" /></a>
+  <a><img alt="GitHub" src="https://img.shields.io/badge/Github-000000?logo=GitHub&logoColor=white" /></a>
+  <a><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-000000?logo=visual-studio-code&logoColor=0078d7" /></a>
+  <a><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-000000?logo=Adobe-Photoshop&logoColor=0078d7"/></a>
+  <a><img alt="illustrator" src="https://img.shields.io/badge/illustrator-000000?logo=Adobe-illustrator&logoColor=orange"/></a>
+  <a><img alt="Figma" src="https://img.shields.io/badge/Figma-000000?logo=Figma&logoColor=pink" /></a>
+  <a><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white" /></a>
 </p>
 
+<p align="center">
+<a>- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Sass-000000?style=flat-square&logo=Sass&logoColor=#3178C6"/> 
+<img src="https://img.shields.io/badge/ChakraUI-000000?style=flat-square&logo=ChakraUI&logoColor=#3178C6"/>
+<img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=TailwindCSS&logoColor=#3178C6"/></a>
+</p>
 
+**Tools**
+
+ 
 
 
 <!--
