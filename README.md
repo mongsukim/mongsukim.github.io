@@ -9,12 +9,14 @@
   <a><img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=javascript&logoColor=#F7DF1E"/></a>
   <a><img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=Typescript&logoColor=#3178C6"/></a>
   <a><img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=#61DAFB"/></a>
+  <a><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=#8ED500"/></a>
+
 </p>
 <p align="center">
   <a><img src="https://img.shields.io/badge/ReactQuery-000000?style=flat-square&logo=ReactQuery&logoColor=#3178C6"/></a>
   <a><img src="https://img.shields.io/badge/NoesJS-000000?style=flat-square&logo=Node.JS&logoColor=#61DAFB"/></a>
   <a><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=#61DAFB"/></a>
-  <a><img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=#61DAFB"/></a>
+  <a><img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=#1572B6"/></a>
 </p>
 <p align="center">
   <a>Tools</a>
@@ -34,6 +36,7 @@
 <a>- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Sass-000000?style=flat-square&logo=Sass&logoColor=#3178C6"/> 
 <img src="https://img.shields.io/badge/ChakraUI-000000?style=flat-square&logo=ChakraUI&logoColor=#3178C6"/>
 <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=TailwindCSS&logoColor=#3178C6"/></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=#8ED500"/> 
 </p>
 
 **Tools**
