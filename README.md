@@ -1,9 +1,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongsukim)](https://github.com/mongsukim/github-readme-stats)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mongsukim)](https://github.com/mongsukim/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khskwj)](https://solved.ac/khskwj)
-  
+  -->
  
 <p align="center">
   <a><img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=javascript&logoColor=#F7DF1E"/></a>
