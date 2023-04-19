@@ -1,4 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongsukim)](https://github.com/mongsukim/github-readme-stats)
+
+<p align="center">✨반갑습니다!✨ 😄</br>
+저는 UX Design based이며  <br/>
+의료기기 소프트웨어 회사에서 일하는</br> 프론트엔드개발자 입니다 
+</p></p>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mongsukim)](https://github.com/mongsukim/github-readme-stats)
@@ -7,6 +11,7 @@
   -->
  
 <p align="center">
+  <strong> 아래의 언어를 주로 사용하여 개발합니다.  </strong><br/><br/>
   <a><img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=javascript&logoColor=#F7DF1E"/></a>
   <a><img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=Typescript&logoColor=#3178C6"/></a>
   <a><img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=#61DAFB"/></a>
@@ -19,11 +24,9 @@
   <a><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=#61DAFB"/></a>
   <a><img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=#1572B6"/></a>
 </p>
+ 
 <p align="center">
-  <a>Tools</a>
-
-</p>
-<p align="center">
+   <strong> 아래 Tool을 능숙하게 다룹니다.</strong><br/><br/>
   <a><img alt="Git" src="https://img.shields.io/badge/Git-000000?logo=Git&logoColor=white" /></a>
   <a><img alt="GitHub" src="https://img.shields.io/badge/Github-000000?logo=GitHub&logoColor=white" /></a>
   <a><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-000000?logo=visual-studio-code&logoColor=0078d7" /></a>
@@ -34,13 +37,22 @@
 </p>
 
 <p align="center">
-<a>- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Sass-000000?style=flat-square&logo=Sass&logoColor=#3178C6"/> 
+<a>- 🌱 I’m currently learning <br/><br/>
+ 
+   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=#000000"/> 
+  <img src="https://img.shields.io/badge/Sass-000000?style=flat-square&logo=Sass&logoColor=#3178C6"/> 
 <img src="https://img.shields.io/badge/ChakraUI-000000?style=flat-square&logo=ChakraUI&logoColor=#3178C6"/>
 <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=TailwindCSS&logoColor=#3178C6"/></a>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=#8ED500"/> 
+ </p>
+ 
+<p align="center">
+개발 기록 벨로그 : https://velog.io/@mongsukim <br/>
+개발 기록 티스토리 : https://designerkhs.tistory.com/ <br/>
 </p>
-
-**Tools**
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongsukim)](https://github.com/mongsukim/github-readme-stats)
+ 
 
  
 
@@ -59,10 +71,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
-
-벨로그 : https://velog.io/@mongsukim <br/>
-티스토리 : https://designerkhs.tistory.com/ <br/>
-
-</p>
