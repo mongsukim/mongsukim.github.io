@@ -51,10 +51,7 @@
 개발 기록 티스토리 : https://designerkhs.tistory.com/ <br/>
 </p>
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongsukim)](https://github.com/mongsukim/github-readme-stats)
- 
 
- 
 
 
 <!--
