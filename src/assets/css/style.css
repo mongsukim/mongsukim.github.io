@@ -1,0 +1,458 @@
+/* header */
+#header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 82px;
+  background: #000;
+  border-bottom: 1px solid #2e2e30;
+  overflow: hidden;
+  z-index: 1000;
+}
+
+#header .port {
+  float: left;
+  width: 30%;
+  text-transform: capitalize;
+}
+
+#header .port a {
+  padding: 10px;
+  display: inline-block;
+  margin: 20px;
+  position: relative;
+}
+
+#header .port a::before {
+  content: "";
+  width: 5px;
+  height: 5px;
+  background: #fff;
+  position: absolute;
+  left: 0;
+  top: 13px;
+  border-radius: 50%;
+  transition: left 0.4s ease;
+}
+
+#header .port a::after {
+  content: "";
+  width: 5px;
+  height: 5px;
+  background: #fff;
+  position: absolute;
+  left: 0;
+  top: 21px;
+  border-radius: 50%;
+  transition: left 0.4s 0.1s ease;
+}
+
+#header .port a:hover::before {
+  left: 96%;
+}
+
+#header .port a:hover::after {
+  left: 96%;
+}
+
+#header .logo {
+  float: left;
+  width: 40%;
+  text-align: center;
+}
+
+#header .logo a {
+  margin: 16px 20px 20px 20px;
+  padding: 3px 10px;
+  display: inline-block;
+  font-size: 28px;
+  font-family: "Playfair Display";
+}
+
+#header .nav {
+  float: left;
+  width: 30%;
+  text-align: right;
+  padding: 14px 11px 10px;
+}
+
+#header .nav li {
+  display: inline-block;
+  color: #fff;
+}
+
+#header .nav li.line {
+  color: #fff;
+  text-decoration: underline;
+  text-underline-position: under;
+}
+
+#header .nav li a {
+  display: inline-block;
+  padding: 3px;
+  color: #fff;
+}
+
+#header a {
+  color: #fff;
+}
+
+#header.light {
+  background-color: #f0eeeb;
+  border-bottom: 1px solid #dad8d1;
+}
+
+#header.light .logo a {
+  color: #202020;
+}
+
+#header.light .port a {
+  color: #202020;
+}
+
+#header.light .nav li a {
+  color: #000;
+}
+
+#header.light .port a::before {
+  background: #202020;
+}
+
+#header.light .port a::after {
+  background: #202020;
+}
+
+/* main */
+#main {
+}
+
+#main-cont {
+  height: 100vh;
+  background: #000;
+}
+
+.main-cont {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+}
+
+.main-cont > div {
+  font-size: 170px;
+  line-height: 0.9;
+  font-family: "Saol_Display_Regular";
+  white-space: nowrap;
+}
+
+/* infor */
+#infor {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 82px;
+  background: #000;
+  border-top: 1px solid #2e2e30;
+}
+
+#infor > div {
+  float: left;
+  height: 82px;
+  line-height: 82px;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+#infor > div a {
+  color: #fff;
+}
+
+#infor > div h4,
+#infor > div ul,
+#infor > div p {
+  display: inline-block;
+}
+
+#infor > div li {
+  display: inline-block;
+}
+
+#infor > div li a {
+  padding: 5px;
+  color: #fff;
+  font-weight: 500;
+}
+
+#infor > div h4 {
+  font-weight: 500;
+  padding: 0 10px;
+  color: #fff;
+  opacity: 0.6;
+}
+
+#infor .infor1 {
+  width: 25%;
+  border-right: 1px solid #2e2e30;
+}
+
+#infor .infor2 {
+  width: 25%;
+  border-right: 1px solid #2e2e30;
+}
+
+#infor .infor3 {
+  width: 50%;
+}
+
+/* signup-cont */
+#signup-cont {
+  height: 100vh;
+  background: #000;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Chosunilbo_myungjo";
+}
+
+.signup {
+  width: 300px;
+}
+
+.signup h2 {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.signup h2 strong {
+  font-weight: normal;
+  display: block;
+}
+
+.signup .input-text {
+  border: 1px solid #fff;
+  background: #000;
+  width: 100%;
+  padding: 13px;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+.signup .birth {
+  display: flex;
+  justify-content: space-between;
+}
+
+.signup .birth > div {
+  flex: 0 0 30%;
+  text-align: center;
+}
+
+.signup .birth > div label {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.signup .birth > div select {
+  display: block;
+  width: 100%;
+  background: #000;
+  color: #fff;
+  border: 1px solid #fff;
+  padding: 10px;
+}
+
+.signup .signup-btn {
+  width: 100%;
+  background: #fff;
+  margin: 10px 0;
+  padding: 15px;
+}
+
+.signup .signDesc {
+  text-align: center;
+}
+
+.signup .signDesc a {
+  text-decoration: underline;
+  color: #fff;
+}
+
+/* login */
+#login-cont {
+  height: 100vh;
+  background: #000;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Chosunilbo_myungjo";
+}
+
+.login {
+  width: 300px;
+}
+
+.login h2 {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.login h2 strong {
+  font-weight: normal;
+  display: block;
+}
+
+.login .input-text {
+  border: 1px solid #fff;
+  background: #000;
+  width: 100%;
+  padding: 13px;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+.login .login-btn {
+  width: 100%;
+  background: #fff;
+  margin: 10px 0;
+  padding: 15px;
+}
+
+.login .login-desc {
+  text-align: center;
+}
+
+.login .login-desc a {
+  text-decoration: underline;
+  color: #fff;
+}
+
+/* board */
+#board-cont {
+  min-height: 100vh;
+  background: #f0eeeb;
+}
+
+.board {
+  padding-top: 200px;
+  font-family: "S-CoreDream-3Light";
+}
+
+.board h2 {
+  font-family: "Chosunilbo_myungjo";
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+
+.board-search {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.board-search .form-search {
+  border: 1px solid #000;
+  font-size: 16px;
+  border-radius: 5px;
+  padding: 14px 20px 10px 20px;
+  background: transparent;
+  font-family: "S-CoreDream-3Light";
+}
+
+.board-search .form-select {
+  border: 1px solid #000;
+  font-size: 16px;
+  border-radius: 5px;
+  padding: 14px 20px 10px 20px;
+  background: transparent;
+  font-family: "S-CoreDream-3Light";
+}
+
+.board-search .form-btn {
+  border: 1px solid #000;
+  font-size: 16px;
+  border-radius: 5px;
+  padding: 14px 20px 10px 20px;
+  font-family: "S-CoreDream-3Light";
+}
+
+.board-search .form-btn-black {
+  background: #000;
+  color: #fff;
+  font-size: 16px;
+  border-radius: 5px;
+  padding: 15px 20px 14px 20px;
+  font-family: "S-CoreDream-3Light";
+  vertical-align: 2px;
+}
+
+.board-table {
+  margin-top: 20px;
+}
+
+.board-table .table {
+  width: 100%;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  font-family: "S-CoreDream-3Light";
+}
+
+.board-table .table tr {
+  transition: all 0.2s;
+}
+
+.board-table .table tr:hover {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.board-table .table td a {
+  display: block;
+  padding: 17px 10px;
+}
+
+.board-table .table td,
+.board-table .table th {
+  border-top: 1px solid #000;
+  text-align: center;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.board-table .table .left {
+  text-align: left;
+  padding-left: 20px;
+}
+
+.board-table .table .height {
+  height: 300px;
+}
+
+.board-table .table th {
+  background: rgba(0, 0, 0, 0.04);
+  padding: 17px 0;
+}
+
+.board-page .pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+  padding-bottom: 360px;
+}
+
+.board-page .pagination li.active a {
+  border-color: #000;
+  background: #000;
+  color: #fff;
+}
+
+.board-page .pagination li a {
+  display: block;
+  border: 1px solid #bebebe;
+  padding: 13px 10px 10px 10px;
+  margin-left: -1px;
+}
