@@ -9,7 +9,7 @@ interface Props {
 }
 
 
-const PostCard = ({ post }: Props) => {
+const PostCard = ({ post }: any) => {
     console.log('post url', post.url)
     console.log('src thumbnail', post.thumbnail)
 
@@ -21,8 +21,6 @@ const PostCard = ({ post }: Props) => {
             src={`${post.thumbnail}`}
             alt={`thumbnail for ${post.title}`}
             sizes='(max-width: 1000px) 50vw, 450px'
-            fill
-            priority
             style={{
               objectFit: 'cover',
             }}
