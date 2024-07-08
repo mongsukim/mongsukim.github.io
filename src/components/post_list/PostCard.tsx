@@ -1,5 +1,5 @@
-import Image from 'next/image';
-import Link from 'next/link';
+ import Link from 'next/link';
+import {Image} from '../../components/mdx/Image'
 
 import { Post } from '@/config/types';
 import { CalendarDays, Clock3 } from 'lucide-react';
@@ -10,9 +10,7 @@ interface Props {
 
 
 const PostCard = ({ post }: any) => {
-    console.log('post url', post.url)
-    console.log('src thumbnail', post.thumbnail)
-
+  
   return (
     <Link href={post.url}>
       <li className='flex h-full flex-col gap-3 overflow-hidden rounded-md border shadow-md transition hover:shadow-xl dark:border-slate-700 dark:hover:border-white'>
@@ -21,6 +19,7 @@ const PostCard = ({ post }: any) => {
             src={`${post.thumbnail}`}
             alt={`thumbnail for ${post.title}`}
             sizes='(max-width: 1000px) 50vw, 450px'
+
             style={{
               objectFit: 'cover',
             }}
