@@ -1,10 +1,7 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
-
-
-module.exports = {
+const nextConfig = {
     output: 'export',
- }
+    // 다른 설정들을 여기에 추가할 수 있습니다.
+};
 
-// Merge MDX config with Next.js config
 export default nextConfig;

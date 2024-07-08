@@ -1,5 +1,5 @@
 [build]
-command = "npm export"
+command = "npm run export"
 publish = ".next"
 
 [[plugins]]
