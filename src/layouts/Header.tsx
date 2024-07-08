@@ -24,7 +24,7 @@ export const Header = () => {
         <div className='flex gap-3'>
           <ThemeSwitch />
           <Button asChild variant='ghost' size='icon'>
-            <Link href='https://github.com/d5br5' target='_blank'>
+            <Link href='https://github.com/mongsukim' target='_blank'>
               <Github className='size-[1.2rem]' />
             </Link>
           </Button>
