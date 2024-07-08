@@ -8,13 +8,17 @@ interface Props {
   post: Post;
 }
 
+
 const PostCard = ({ post }: Props) => {
+    console.log('post url', post.url)
+    console.log('src thumbnail', post.thumbnail)
+
   return (
     <Link href={post.url}>
       <li className='flex h-full flex-col gap-3 overflow-hidden rounded-md border shadow-md transition hover:shadow-xl dark:border-slate-700 dark:hover:border-white'>
         <div className='relative aspect-video w-full rounded-t-md border-b'>
           <Image
-            src={post.thumbnail}
+            src={`${post.thumbnail}`}
             alt={`thumbnail for ${post.title}`}
             sizes='(max-width: 1000px) 50vw, 450px'
             fill

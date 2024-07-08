@@ -23,13 +23,19 @@ const CategoryList = ({
   allPostCount,
   currentCategory = 'all',
 }: CategoryListProps) => {
+
+  console.log('categoryList!!',categoryList)
+  console.log('allPostCount',allPostCount)
+  console.log('category',currentCategory)
+
   const router = useRouter();
 
   const onCategoryChange = (value: string) => {
+
     if (value === 'all') {
       router.push('/blog');
     } else {
-      router.push(`/blog/${value}`);
+       router.push(`/blog/${value}`);
     }
   };
 
