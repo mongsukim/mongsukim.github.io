@@ -4,6 +4,7 @@ interface ImageProps {
 }
 
 export const Image = ({ src, alt }: ImageProps) => {
+  console.log('src',src)
   return (
     <>
       <img src={src} alt={alt} className='mx-auto mb-0 mt-8 rounded-md' />
