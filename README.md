@@ -5,4 +5,6 @@
 
 
 배포된 모습은  
-nextjsmoriblog.netlify.app 링크에서 확인 가능합니다. 
+[nextjsmoriblog.netlify.app](https://main--nextjsmoriblog.netlify.app/blog)
+
+링크에서 확인 가능합니다. 
